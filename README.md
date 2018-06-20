@@ -16,3 +16,6 @@ Then, go to gnome stettings and change your brackground to your new time-shiftin
 
 ## How to improve it
 If you like that idea and you find other images that would make good time shifting wallpaper, just edit the adwaita XML file. It's syntax is fairly easy to understand, and well documented, i'm sure you'll figure it out.
+
+Someone then showed me this Github prject that automatically create XML files with links to your images to create such time-shifting wallpapers. I havent tried it myself, but that seems cool.
+https://github.com/Maestroschan/dynamic-wallpaper-editor
